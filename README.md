@@ -70,9 +70,18 @@ The main physical components of this layout are:
 
 ## Further Simulation and Analysis
 - Set the DCF length to 0 and run the simulation again.  
-- Record similar measurements for comparison.  
+- Record similar measurements for comparison.
+- 
+<img width="1296" height="750" alt="WhatsApp Image 2026-05-20 at 12 33 53 AM" src="https://github.com/user-attachments/assets/87f3d191-425e-4956-9543-d505289b7918" />
+
 
 ---
+## Graph
+
+<img width="1600" height="893" alt="WhatsApp Image 2026-05-13 at 9 19 12 AM" src="https://github.com/user-attachments/assets/13b6d6bb-b9e2-40bf-94df-dbce0543c878" />
+
+<img width="1600" height="899" alt="WhatsApp Image 2026-05-13 at 9 29 07 AM" src="https://github.com/user-attachments/assets/d2d1a9cf-0d2b-4914-9cae-9a0473917e7c" />
+
 
 ## Conclusions
 Discuss the effectiveness of dispersion-compensating fiber and the ability of the calculations to engineer a viable system.
